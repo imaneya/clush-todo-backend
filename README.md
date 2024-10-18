@@ -7,6 +7,9 @@ Backend is developed using spring boot.
 
 #How to Run Application
 
+Install Mysql and Create DB, Create Table
+In /mysql directory, executiion mysql.sql
+
 Install maven to run spring boot app (backend).
 
 in /backend/to-do-list directory, run spring boot aplication using maven
