@@ -3,6 +3,11 @@
 Todo list application that can create, read, update, delete, and mark completed.
 This application also implement filtering and pagination.
 
+
+The API specification was written with swagger.
+https://app.swaggerhub.com/apis/imaneya/Clush-ToDo/1.0.0
+
+
 Backend is developed using spring boot.
 
 #How to Run Application
